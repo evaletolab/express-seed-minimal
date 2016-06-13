@@ -1,9 +1,9 @@
 # express-seed-minimal
 This is a simple express 4.0 backend project:
-* continuous integration
-* sendmail with template 
-* multilingue 
-* mongodb for storage
+* continuous integration,
+* sendmail with template, 
+* multilingue, 
+* mongodb for storage,
 * ready for test
 
 
